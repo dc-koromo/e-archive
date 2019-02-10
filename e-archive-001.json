@@ -1,0 +1,57 @@
+[
+  {
+    "IsUnstable": false,
+    "UnstableModel": {
+      "ArticleType": 0,
+      "URL": null,
+      "Magic": null,
+      "Thumbnail": null,
+      "Title": null,
+      "SubTitle": null,
+      "Type": null,
+      "Uploader": null,
+      "Posted": null,
+      "Parent": null,
+      "Visible": null,
+      "Language": null,
+      "FileSize": null,
+      "Length": 0,
+      "Favorited": 0,
+      "RatingCount": 0,
+      "RatingAverage": 0.0,
+      "reclass": null,
+      "language": null,
+      "group": null,
+      "parody": null,
+      "character": null,
+      "artist": null,
+      "male": null,
+      "female": null,
+      "misc": null
+    },
+    "Artists": [
+      "okunoha"
+    ],
+    "Characters": null,
+    "Groups": null,
+    "Language": "english",
+    "Series": null,
+    "Tags": [
+      "female:defloration",
+      "female:insect girl",
+      "female:monster girl",
+      "female:sole female",
+      "male:sole male"
+    ],
+    "TagsKor": false,
+    "Type": "manga",
+    "ManualPathOrdering": false,
+    "ManualAdditionalPath": null,
+    "DateTime": "2019-02-10 01:04:00-06",
+    "Thumbnail": "bigtn/1362837/01_1_.jpg.jpg",
+    "Magic": "1362837",
+    "Title": "Haruko no Sunda Ato de | After Haruko&#39;s Completion",
+    "ImagesLink": null,
+    "Archive": null
+  }
+]
